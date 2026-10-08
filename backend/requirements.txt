@@ -1,0 +1,15 @@
+pip install fastapi
+pip install uvicorn
+pip install sqlalchemy
+pip install pymysql
+pip install pydantic
+pip install pydantic-settings
+pip install python-dotenv
+pip install python-jose[cryptography]
+pip install passlib[bcrypt]
+pip install python-multipart
+pip install email-validator
+pip install stripe
+pip install cloudinary
+pip install pytest
+pip install httpx
